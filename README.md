@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on www.rahasyamaypuran.com
 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Faesthetic-space-diving-gif-13598060&psig=AOvVaw28Xh1Ypz4Z0_VzaWkT3VCB&ust=1637249684967000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCro8jcn_QCFQAAAAAdAAAAABAD">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gauravjha1304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravjha1304" height="30" width="40" /></a>
