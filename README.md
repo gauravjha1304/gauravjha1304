@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravjha1304&label=Profile%20views&color=0e75b6&style=flat" alt="gauravjha1304" /> </p>
 
-- 🔭 I’m currently working on www.rahasyamaypuran.com
+<p align="left"> <a href="https://twitter.com/gauravjha1304" target="blank"><img src="https://img.shields.io/twitter/follow/gauravjha1304?logo=twitter&style=for-the-badge" alt="gauravjha1304" /></a> </p>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Faesthetic-space-diving-gif-13598060&psig=AOvVaw28Xh1Ypz4Z0_VzaWkT3VCB&ust=1637249684967000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCro8jcn_QCFQAAAAAdAAAAABAD">
+- 🔭 I’m currently working on www.rahasyamaypuran.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
