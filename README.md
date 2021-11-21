@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Gaurav Jha</h1>
-<h3 align="center">Web Developer | Content Creator | Learner</h3>
+
+
 
 <img align="center" alt="Coding" src="20211121_152326.jpg">
+<h3 align="center">Web Developer | Content Creator | Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravjha1304&label=Profile%20views&color=0e75b6&style=flat" alt="gauravjha1304" /> </p>
 
